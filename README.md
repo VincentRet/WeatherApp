@@ -1,3 +1,2 @@
 # WeatherApp
-Django Weather App  
-This is my first attempt at hosting an app on AWS
+This App Allows you to access the real-time weather conditions of any city or state in America.
